@@ -1,4 +1,1 @@
-Emphasis	*Emphasize*	-emphasize-
-		*Strong*	-Strong-
-
-Inline links	https://omosh.com
+write a small Markdown text to present this project
